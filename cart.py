@@ -1,0 +1,2 @@
+class cort:
+    None
